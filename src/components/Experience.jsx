@@ -5,7 +5,7 @@ const Experience = () => {
     {
       title: "MERN Stack Developer Intern",
       company: "Inetz Technologies",
-      period: "Dec 2025 - Mar 2026",
+      period: "Dec 2025 - Apr 2026",
       description: "Developed responsive React components and integrated REST APIs for client management dashboard. Collaborated with cross-functional teams to deliver features on time.",
       technologies: ["React", "Node.js", "Express", "MongoDB"]
     },
